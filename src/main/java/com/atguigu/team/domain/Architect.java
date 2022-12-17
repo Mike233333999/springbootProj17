@@ -32,3 +32,8 @@ public class Architect extends Designer {
                getBonus() + "\t" + getStock() + "\t" + getEquipment().getDescription();
     }
 }
+
+
+
+
+
